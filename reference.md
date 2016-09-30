@@ -7,20 +7,15 @@ permalink: /reference/
 
 The glossary would go here, formatted as:
 
-~~~
-key word 1
-:   explanation 1
 
-key word 2
-:   explanation 2
-~~~
-{: .source}
+batch scheduler
+:   what it is
 
-which renders as:
+head node
+:   where you log in
 
+node
+:   can be server, or process
 
-key word 1
-:   explanation 1
-
-key word 2
-:   explanation 2
+thread
+:   what...
