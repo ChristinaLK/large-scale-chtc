@@ -1,14 +1,15 @@
 ---
-title: "Lesson Design"
-teaching: 10
+title: "Motivation"
+teaching: 15
 exercises: 0
+pagename: 01-motivation.md
 questions:
-- "How do we design lessons?"
+- "Why do I need to use a large-scale resource?"
 objectives:
-- "Describe the reverse instructional design process."
-- "Describe the purpose and implementation of formative assessments."
+- "Describe a problem that might benefit from large-scale computing."
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
 training: http://swcarpentry.github.io/instructor-training
 ---
+Stuff here
 
