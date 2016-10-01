@@ -12,5 +12,14 @@ keypoints:
 training: http://swcarpentry.github.io/instructor-training
 ---
 
+> Talk about logging in to remote system
+
+> Need these pieces of info to log in: 
+
+* `ssh`
+* `hostname`, port number
+* `username`, password
+
+> Give software options + commands for Windows, Linux, Mac
 
 {% include_relative custom/03-login.md %}

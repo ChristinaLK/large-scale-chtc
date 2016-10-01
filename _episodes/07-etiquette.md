@@ -12,6 +12,13 @@ keypoints:
 training: http://swcarpentry.github.io/instructor-training
 ---
 
+> shared resource!  Important to be nice
 
+> don't run stuff on the head node!
 
-{% include_relative custom/06-etiquette.md %}
+> Manage your data (size + number of files)
+> also talk about du (very basics)
+
+> 
+
+{% include_relative custom/07-etiquette.md %}

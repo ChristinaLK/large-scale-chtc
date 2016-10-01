@@ -3,10 +3,9 @@ title: "Other Topics"
 teaching: 15
 exercises: 0
 questions:
-- "How do I log in to the system?"
+- "What else do I need to know?"
 objectives:
-- "Install the necessary software to log in. "
-- "Name the five major components needed for logging in."
+- "Identify special considerations for your system."  
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
 training: http://swcarpentry.github.io/instructor-training

@@ -1,9 +1,5 @@
 ## On our system
 
-Describe an example here! 
+Our high throughput system uses `HTCondor` as the batch scheduler.  
 
-> ## Exercise
-> 
-> Do something
->
-{: .challenge} 
+> more stuff about HTC

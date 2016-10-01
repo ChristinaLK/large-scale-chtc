@@ -12,5 +12,13 @@ keypoints:
 training: http://swcarpentry.github.io/instructor-training
 ---
 
+> define a job
+
+> define structure of large scale system (head node + worker nodes)
+
+> describe the role of a scheduler
+
+> describe the very basics of how schedulers work 
+> (submit file, queue of tasks, allocation of resources)
 
 {% include_relative custom/04-scheduler-basics.md %}
