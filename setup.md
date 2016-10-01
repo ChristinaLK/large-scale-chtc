@@ -18,3 +18,8 @@ internet, in order to log into the relevant resource via
 the network.  If special accommodations are needed to access the 
 resource via the network (IP addresses, a virtual private 
 network (VPN)), these should also be in place.  
+
+If this website is meant as a reference, or self-paced course, 
+readers need no special preparation with accounts, as one of the 
+[episodes]() 
+will show them how to apply for one.  
