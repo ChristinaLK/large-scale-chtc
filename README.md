@@ -1,26 +1,26 @@
-lesson-example
+Computing At Scale (Template Lesson)
 ==============
 
-This repository shows how to create a lesson using
-the [Software Carpentry lesson template][styles],
-and is itself an example of the use of that template.
-Please see <https://swcarpentry.github.io/lesson-example/>
-for a rendered version of this material,
-including detailed instructions on design, setup, and formatting.
+This repository contains a customizable template for 
+an introductory training on using a large scale 
+computing resource.  
 
-## Quick Instructions
+> Disclaimer: While this template uses the [Software Carpentry][swc] 
+and [Data Carpentry][dc] lesson template, it is in no way affiliated 
+with or endorsed by these organizations, and is not considered part 
+of either organization's official scope or curriculum.  Any instructor 
+or trainer can use this material at their own discretion.  
+
+## Customization Instructions
 
 1.  Do *not* fork this repository directly on GitHub.
-    Instead, please follow the instructions in [the setup instructions][setup]
-    to create a repository for your lesson by importing material
-    from [the styles repository][styles].
+    Instead, 
+    > add import instructions
 
-2.  Once you have created your repository,
-    run `bin/lesson_initialize.py` to create standard lesson-specific files.
-    You *must* edit several values in `_config.yml`
-    so that GitHub Pages will render your lesson correctly.
+2.  Edit the following files and values: 
+    > _yaml, title
 
-3.  Please read [the episodes of this lesson][rendered] to format your material.
+3.  Basic formatting information...
 
 4.  Please keep the master copy of your lesson in your repository's `gh-pages` branch,
     since that is what is
@@ -39,7 +39,7 @@ including detailed instructions on design, setup, and formatting.
     If you find an error or omission in the lesson template,
     please [file an issue in the styles repository][styles-issues] instead.
 
-## Layout
+## Layout Overview
 
 The layout of this repository is explained in [this site's episodes][rendered].
 In brief:
@@ -54,14 +54,6 @@ In brief:
     `_episodes/01-xyz.md` generates `/01-xyz/index.html`,
     which can be linked to using `/01-xyz/`.
 
-3.  If you are writing lessons in R Markdown,
-    source files go in `_episodes_rmd`.
-    You must run `make lesson-rmd` to turn these into Markdown in `_episodes`
-    and commit those Markdown files to the repository
-    (since GitHub won't run anything except Jekyll to format material).
-    You must also commit any figures generated from your lessons,
-    which are stored in the `fig` directory.
-
 4.  Files that appear under the "extras" menu are stored in `_extras`.
 
 5.  Figures are stored in the `fig` directory,
@@ -70,12 +62,6 @@ In brief:
     and miscellaneous files in `files`.
 
 ## Getting Started
-
-1.  Run `bin/lesson_initialize.py` to create files
-    that can't be stored in the template repository
-    (because they would cause repeated merge conflicts),
-    then edit `_config.yml` as described in
-    [the documentation][editing-config].
 
 2.  Run `make lesson-check` at any time
     to check that your lesson files follow our formatting rules.
