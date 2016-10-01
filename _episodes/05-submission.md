@@ -9,7 +9,6 @@ objectives:
 - "Write a submit file."
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://swcarpentry.github.io/instructor-training
 ---
 
 > Talk about submit files/scripts.  Often include: 

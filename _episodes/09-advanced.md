@@ -8,7 +8,6 @@ objectives:
 - "Identify special considerations for your system."  
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://swcarpentry.github.io/instructor-training
 ---
 
 Other topics include: 

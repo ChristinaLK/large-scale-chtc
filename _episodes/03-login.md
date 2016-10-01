@@ -9,7 +9,6 @@ objectives:
 - "Name the five major components needed for logging in."
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://swcarpentry.github.io/instructor-training
 ---
 
 > Talk about logging in to remote system

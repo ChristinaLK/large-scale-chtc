@@ -9,7 +9,6 @@ objectives:
 - "Describe the role of a batch scheduler."
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://swcarpentry.github.io/instructor-training
 ---
 
 > define a job
