@@ -3,7 +3,7 @@ Computing At Scale (Template Lesson)
 
 This repository contains a customizable template for 
 an introductory training on using a large scale 
-computing resource.  
+computing resource, based on this [lesson template][github].  
 
 > Disclaimer: While this template uses the [Software Carpentry][swc] 
 and [Data Carpentry][dc] lesson template, it is in no way affiliated 
@@ -18,12 +18,11 @@ or trainer can use this material at their own discretion.
     > add import instructions
 
 2.  Edit the following files and values: 
-    > _yaml, title
+    > _yaml, title, intro text on first page, includes in `_episodes/custom` dir, figs
 
-3.  Basic formatting information...
+3.  See layout/formatting below for more info.  
 
-4.  Please keep the master copy of your lesson in your repository's `gh-pages` branch,
-    since that is what is
+4.  Commit changes to the gh-pages branch.  Push a copy to repsitory on github
     [automatically published as a website by GitHub][github-pages].
 
 5.  To preview material,
@@ -33,6 +32,7 @@ or trainer can use this material at their own discretion.
     and let GitHub take care of the rendering.
 
 6.  Run `make lesson-check` to check that your files follow our formatting rules.
+    For a list of other helpful commands run `make` in this directory.
 
 7.  If you find an error or omission in this documentation,
     please [file an issue in this repository][example-issues].
@@ -60,24 +60,22 @@ In brief:
     data sets in `data`,
     source code in `code`,
     and miscellaneous files in `files`.
+    
+## Formatting overview
 
-## Getting Started
+1.  Markdown, links, link to gh-markdown
 
-2.  Run `make lesson-check` at any time
-    to check that your lesson files follow our formatting rules.
-    If you come across formatting issues that the checker doesn't report,
-    please [file an issue in the styles repository][styles-issues].
-
-3.  For a list of helpful commands run `make` in this directory.
-    If you are looking for things to work on,
-    please see [the list of issues for this repository][issues].
+2.  Callouts, challenges, checklists, prereq, solutions
 
 [collections]: https://jekyllrb.com/docs/collections/
+[dc]: https://datacarpentry.org
 [editing-config]: https://swcarpentry.github.io/lesson-example/03-organization/
 [example-issues]: https://github.com/swcarpentry/lesson-example/issues/
+[github]: https://github.com/swcarpentry/lesson-example/
 [github-pages]: https://help.github.com/articles/creating-project-pages-manually/
 [issues]: https://github.com/swcarpentry/lesson-example/issues
 [rendered]: https://swcarpentry.github.io/lesson-example/
 [setup]: https://github.com/swcarpentry/lesson-example/blob/gh-pages/setup.md
 [styles-issues]: https://github.com/swcarpentry/styles/issues/
 [styles]: https://github.com/swcarpentry/styles/
+[swc]: https://software-carpentry.org

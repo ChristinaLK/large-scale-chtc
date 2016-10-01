@@ -14,4 +14,10 @@ permalink: /guide/
 
 ## Customizing the Template
 
-> Instructions here
+> See the instructions in the README.md.
+
+## Tips and Tricks
+
+> Stickies?
+
+> Helpers
