@@ -1,10 +1,10 @@
 ## On our system
 
-> talk about condor_q
+> Describe the "queue" command
 
-> talk about job states
+> Describe different options or information described by "queue"
 
-> talk about condor_rm
+> Describe the "remove" command.  
 
 > ## Exercise
 > 

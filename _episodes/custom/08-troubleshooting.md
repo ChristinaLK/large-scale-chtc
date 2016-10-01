@@ -2,10 +2,10 @@
 
 > interactive jobs
 
-> log / err / out 
+> reading output/error files
 
 > ## Exercise
 > 
-> run interactive job
+> Run interactive job
 >
 {: .challenge} 

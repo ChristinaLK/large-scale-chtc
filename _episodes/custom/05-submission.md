@@ -1,26 +1,13 @@
 ## On our system
 
-~~~
-universe = vanilla
-queue 3
-~~~
+> Provide an example program or script
 
-~~~
-#!/bin/bash
+> Provide a sample submit file
 
-sleep = 120
-echo "Hello from Job $1.$2 running as `user`@`hostname
-~~~
-
-To submit a job, run the command: 
-
-~~~
-$ condor_submit hello-chtc.sub
-~~~
+> Describe the submission command using your batch scheduler
 
 > ## Exercise
 > 
-> Making a copy of the submit file and script above, submit them 
-> as a job.  
+> Submit a job 
 >
 {: .challenge} 
