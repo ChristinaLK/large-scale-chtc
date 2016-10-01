@@ -3,8 +3,6 @@ layout: reference
 permalink: /reference/
 ---
 
-> have questions or keypoints table?  
-
 ## Conversion table
 
 |-----|-----|
@@ -41,6 +39,9 @@ CPU
 disk
 :   definition
 
+execute node
+:   definition
+
 GPU
 :   definition
 
@@ -57,6 +58,9 @@ high-performance computing
 :   definition
 
 large-scale computing
+:   definition
+
+log-in node
 :   definition
 
 memory
@@ -86,8 +90,14 @@ scheduler
 server
 :   definition
 
+submit node
+:   definition
+
 supercomputer
 :   definition
 
 thread
 :   what...
+
+worker node
+:   definition
