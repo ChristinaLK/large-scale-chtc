@@ -2,7 +2,6 @@
 title: "Motivation"
 teaching: 15
 exercises: 0
-pagename: 01-motivation.md
 questions:
 - "Why do I need to use a large-scale resource?"
 objectives:
@@ -13,3 +12,4 @@ training: http://swcarpentry.github.io/instructor-training
 ---
 Stuff here
 
+{% include_relative custom/01-motivation.md %}

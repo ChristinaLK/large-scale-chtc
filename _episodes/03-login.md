@@ -13,3 +13,4 @@ training: http://swcarpentry.github.io/instructor-training
 ---
 
 
+{% include_relative custom/03-login.md %}

@@ -17,4 +17,3 @@ Other topics include:
 * Software Compilation / Installation
 * Using a module system
 * ...other things
-

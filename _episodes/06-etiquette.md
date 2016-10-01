@@ -14,3 +14,4 @@ training: http://swcarpentry.github.io/instructor-training
 
 
 
+{% include_relative custom/06-etiquette.md %}

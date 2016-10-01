@@ -16,3 +16,4 @@ training: http://swcarpentry.github.io/instructor-training
 
 
 
+{% include_relative custom/05-submission.md %}
