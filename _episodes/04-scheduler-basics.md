@@ -8,7 +8,9 @@ objectives:
 - "Draw a diagram of the compute system that you're using."
 - "Describe the role of a batch scheduler."
 keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
+- "A job consists of a computational task, usually defined by input data and a piece of software, producing output data."  
+- "Most large scale systems consist of a head node for logging in and submitting jobs, where jobs are performed on worker nodes."  
+- "A batch scheduler controls where and when jobs run on the worker nodes."  
 ---
 
 > define a job

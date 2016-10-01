@@ -8,8 +8,8 @@ objectives:
 - "Install the necessary software to log in. "
 - "Name the five major components needed for logging in."
 keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
-training: http://swcarpentry.github.io/instructor-training
+- "It is important to follow your resource's policies and procedures."  
+- "Have a data management plan in place."  
 ---
 
 > shared resource!  Important to be nice
@@ -18,7 +18,5 @@ training: http://swcarpentry.github.io/instructor-training
 
 > Manage your data (size + number of files)
 > also talk about du (very basics)
-
-> 
 
 {% include_relative custom/07-etiquette.md %}

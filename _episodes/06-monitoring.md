@@ -7,7 +7,8 @@ questions:
 - "How do I know if my job has run successfully?"
 objectives:
 - "Determine when a job started and completed."  
-
+keypoints:
+- "Jobs may go through various states in the queue, and can be monitored by a queue command." 
 ---
 
 > talk about "queue" command, usual info

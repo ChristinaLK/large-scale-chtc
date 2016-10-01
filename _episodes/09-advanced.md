@@ -12,6 +12,6 @@ keypoints:
 
 Other topics include: 
 
-* Software Compilation / Installation
+* Software compilation / installation
 * Using a module system
 * ...other things

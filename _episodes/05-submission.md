@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Write a submit file."
 keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
+- "In order to submit a job, you need to write a submit description file."  
 ---
 
 > Talk about submit files/scripts.  Often include: 

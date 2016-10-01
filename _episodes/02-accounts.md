@@ -8,6 +8,9 @@ questions:
 objectives:
 - "Identify three places to apply for accounts."
 - "Request an account on a large-scale compute system."
+keypoints: 
+- "Find a large scale resource that matches your needs."  
+- "Resources will require an account request or application."  
 ---
 
 > look for a resource that matches your needs
