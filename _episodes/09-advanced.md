@@ -7,11 +7,7 @@ questions:
 objectives:
 - "Identify special considerations for your system."  
 keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
+- "Large-scale compute systems are powerful, but only if you ask questions and get the help you need"
 ---
 
-Other topics include: 
-
-* Software compilation / installation
-* Using a module system
-* ...other things
+> Optional: extra topics relevant to your system

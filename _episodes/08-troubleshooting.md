@@ -14,17 +14,16 @@ keypoints:
 - "You can use log, standard output, and standard error information to determine why jobs fail." 
 ---
 
+> Run test jobs / interactive jobs.  
+
 > Where can jobs fail?  Answer: scheduler/hardware issue, software issue, etc...
 
 > Where to find answers: out/error/log files, 
-
-> Run test jobs / interactive jobs.  
 
 > How to write a good email to ask for help: describe problem, what you 
 > expected, what you saw instead.  
 
 > callout for common bash scripting error w/ ^M line endings
-
 
 {% include_relative custom/08-troubleshooting.md %}
 

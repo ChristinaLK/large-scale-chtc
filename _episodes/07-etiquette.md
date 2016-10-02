@@ -9,7 +9,7 @@ objectives:
 - "Name the five major components needed for logging in."
 keypoints:
 - "It is important to follow your resource's policies and procedures."  
-- "Have a data management plan in place."  
+- "Have a data management plan in place before you start computing."  
 ---
 
 > shared resource!  Important to be nice

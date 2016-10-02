@@ -20,8 +20,6 @@ keypoints:
 > * what commands to run / software
 > * file handling commands
 
-> job submission command.  
+> Describe job submission command
 
 {% include_relative custom/05-submission.md %}
-
-Next, we'll need to monitor our basic job as it runs.  
