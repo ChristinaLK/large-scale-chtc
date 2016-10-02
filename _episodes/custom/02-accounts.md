@@ -1,6 +1,6 @@
 ## On our system
 
-> Describe what workloads are good for this resource
+> Describe what workloads are good for your system
 
 > Describe the account application process for your system
 

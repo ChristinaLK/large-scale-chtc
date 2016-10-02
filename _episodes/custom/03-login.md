@@ -1,6 +1,6 @@
 ## On our system
 
-> Give the name of the log in nodes, and usernames
+> Give the name of the login nodes, and usernames
 
 > ## Exercise
 > 
