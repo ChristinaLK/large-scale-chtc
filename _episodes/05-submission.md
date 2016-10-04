@@ -3,7 +3,6 @@ title: "Submitting a Job"
 teaching: 15
 exercises: 0
 questions:
-- "What defines a job?"
 - "How do I submit a job?"
 objectives:
 - "Write a submit file."

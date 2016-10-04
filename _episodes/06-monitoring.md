@@ -11,12 +11,12 @@ keypoints:
 - "Jobs may go through various states in the queue, and can be monitored by a queue command." 
 ---
 
-> talk about "queue" command, usual info
+> Describe "queue" command, usual info
 
-> job states, generally
+> Describe job states, generally
 
-> callout about notifications
+> callout about notifications when jobs finish
 
-> talk about remove command
+> Describe remove command
 
 {% include_relative custom/06-monitoring.md %}

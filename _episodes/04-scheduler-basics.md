@@ -3,7 +3,8 @@ title: "Jobs and Scheduling"
 teaching: 15
 exercises: 0
 questions:
-- "What have I logged into?"
+- "How is a large-scale compute system organized?"
+- "What is a job?"
 objectives:
 - "Draw a diagram of the compute system that you're using."
 - "Describe the role of a batch scheduler."
@@ -13,7 +14,7 @@ keypoints:
 - "A batch scheduler controls where and when jobs run on the worker nodes."  
 ---
 
-> define a job
+> define a job (input, calculation, output)
 
 > define structure of large scale system (head node + worker nodes)
 
