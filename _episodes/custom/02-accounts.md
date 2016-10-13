@@ -1,13 +1,17 @@
 ## On our system
 
-> Describe what workloads are good for your system
-
-> Describe the account application process for your system
-
-> Describe how allocations work (if applicable)
+CHTC's high throughput system is good for workloads that that can be broken into 
+many independent pieces.  
 
 > ## Exercise
 > 
-> Apply for an account.  
+> Go to the [Center website](http://chtc.cs.wisc.edu).  Where is information about
+> getting an account?  
 >
 {: .challenge} 
+
+In order to get an account on CHTC's high throughput compute 
+system, you can go to the [getting started]() link on our 
+website and fill out the following [form]().  
+
+

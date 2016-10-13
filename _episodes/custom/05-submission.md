@@ -1,13 +1,42 @@
 ## On our system
 
-> Provide an example program or script
+Submit file example: (`hello-chtc.sub`)
+~~~
+universe = vanilla
+log = hello-chtc_$(Cluster).log
+error = hello-chtc_$(Cluster)_$(Process).err
 
-> Provide a sample submit file
+executable = hello-chtc.sh
+arguments = $(Cluster) $(Process)
+output = hello-chtc_$(Cluster)_$(Process).out
 
-> Describe the submission command using your batch scheduler
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+# transfer_input_files = file1,/absolute/pathto/file2,etc
+
+request_cpus = 1
+request_memory = 1GB
+request_disk = 1MB
+queue 3
+~~~
+
+Simple shell script executable: (`hello-chtc.sh`)
+~~~
+#!/bin/bash
+
+sleep = 120
+echo "Hello from Job $1.$2 running as `user`@`hostname
+~~~
+
+To submit a job, run the command: 
+
+~~~
+$ condor_submit hello-chtc.sub
+~~~
 
 > ## Exercise
 > 
-> Submit a job 
+> Making a copy of the submit file and script above, submit them 
+> as a job.  
 >
 {: .challenge} 

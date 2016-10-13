@@ -1,10 +1,14 @@
 ## On our system
 
-> Describe the "queue" command
+To monitor jobs, use the following command: 
 
-> Describe different options or information described by "queue"
+~~~
+$ condor_q
+~~~
 
-> Describe the "remove" command.  
+> talk about job states
+
+> talk about condor_rm
 
 > ## Exercise
 > 

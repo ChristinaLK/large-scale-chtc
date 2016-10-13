@@ -1,8 +1,5 @@
 ## On our system
 
-> Describe your system
+Our high throughput system uses `HTCondor` as the batch scheduler.  
 
-> Name your batch scheduler
-
-> Describe other tools you might need
-
+> more stuff about HTC
