@@ -1,6 +1,7 @@
 ## On our system
 
 Submit file example: (`hello-chtc.sub`)
+
 ~~~
 universe = vanilla
 log = hello-chtc_$(Cluster).log
@@ -21,6 +22,7 @@ queue 3
 ~~~
 
 Simple shell script executable: (`hello-chtc.sh`)
+
 ~~~
 #!/bin/bash
 
