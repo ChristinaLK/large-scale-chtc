@@ -82,7 +82,7 @@ processer
 :   definition
 
 RAM
-:   definition
+:   see *memory*
 
 scheduler
 :   see *batch scheduler*
@@ -97,7 +97,7 @@ supercomputer
 :   definition
 
 thread
-:   what...
+:   definition
 
 worker node
 :   definition
