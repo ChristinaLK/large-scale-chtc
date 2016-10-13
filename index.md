@@ -3,14 +3,14 @@ layout: lesson
 root: .
 ---
 
-Intro to Large Scale Computing
+Intro to Large Scale Computing at the Center for High Throughput Computing at UW Madison. 
+(WORK IN PROGRESS!!!!!) 
 
 > ## Prerequisites
 >
-> This tutorial is appropriate for new users of a large 
-> scale compute system.  You must be able to create an 
-> account on the system and have an appropriate workload.  
-> In addition, it assumes basic familiarity with the 
+> This tutorial is appropriate for new users at the Center for 
+> High Throughput Computing.  
+> It assumes basic familiarity with the 
 > command line, including how to make, copy, move and remove
 > files and directories.  
 {: .prereq}
